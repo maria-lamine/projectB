@@ -1,5 +1,5 @@
 
-# projectB: Biomedican Study 
+# projectB: Biomedical Study 
 
 Author: Maria Lamine  
 Date: July 2026  
